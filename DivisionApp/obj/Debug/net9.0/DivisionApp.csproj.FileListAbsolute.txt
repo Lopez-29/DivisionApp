@@ -1,0 +1,14 @@
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\bin\Debug\net9.0\DivisionApp.exe
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\bin\Debug\net9.0\DivisionApp.deps.json
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\bin\Debug\net9.0\DivisionApp.runtimeconfig.json
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\bin\Debug\net9.0\DivisionApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\bin\Debug\net9.0\DivisionApp.pdb
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\refint\DivisionApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.pdb
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\DivisionApp.genruntimeconfig.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\DivisionApp\obj\Debug\net9.0\ref\DivisionApp.dll
