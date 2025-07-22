@@ -1,0 +1,15 @@
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\bin\Debug\net9.0\CollectionsApp.exe
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\bin\Debug\net9.0\CollectionsApp.deps.json
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\bin\Debug\net9.0\CollectionsApp.runtimeconfig.json
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\bin\Debug\net9.0\CollectionsApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\bin\Debug\net9.0\CollectionsApp.pdb
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.AssemblyInfoInputs.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.AssemblyInfo.cs
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.csproj.CoreCompileInputs.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.sourcelink.json
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\refint\CollectionsApp.dll
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.pdb
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\CollectionsApp.genruntimeconfig.cache
+C:\Users\lopez\OneDrive\Documentos\C#\CWorkplace\Collections\CollectionsApp\obj\Debug\net9.0\ref\CollectionsApp.dll
